@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @unixthec
+- 👋 Hi, I’m Oriver Segura
 - 👀 I’m interested in ... Learn  
 - 🌱 I’m currently learning ... Linux System Administrator  
 - 💞️ I’m looking to collaborate on ... All purposes  
-- 📫 How to reach me ... 
+
 
 <!---
 unixthec/unixthec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
